@@ -92,7 +92,7 @@ export default function FormPropsTextFields() {
                 <div className="flex justify-center gap-4">
 
                     <Button type="submit" variant="contained" sx={{ mt: 1 }}>
-                        Submit Enquiry
+                         Submit Enquiry
                     </Button>
                     <Button id="liveToastBtn" type="button" onClick={clr} variant="outlined" sx={{ mt: 1 }}>
                         Clear Enquiry
