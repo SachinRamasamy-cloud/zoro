@@ -37,7 +37,7 @@ export default function TopNav() {
                         {/* Menu Items */}
                         <div className="hidden md:flex gap-8 mt-[7px] text-gray-300 text-[18px] font-medium">
                             <button
-                                onClick={() => navigate("/")}
+                                onClick={() => navigate("/home")}
                                 className="relative overflow-hidden px-2 py-1 hover:text-purple-400 transition"
                             >
                                 Home
